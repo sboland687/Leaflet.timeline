@@ -6,6 +6,8 @@
 
 # Leaflet.timeline 1.0.0-beta
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skeate/Leaflet.timeline.svg)](https://greenkeeper.io/)
+
 Show any changing geospatial data over time, from points to polygons.
 
 If you want smooth motion of markers from point to point, this is not your
